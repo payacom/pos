@@ -1,2 +1,2 @@
 # pos
-pos psnel
+pos panel
